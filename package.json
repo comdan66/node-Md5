@@ -1,6 +1,6 @@
 {
   "name": "@oawu/md5",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OA's md5 工具 🔐",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/comdan66/node-Scss.git"
   },
   "keywords": [
-    "md5", "md5_file"
+    "md5",
+    "md5_file"
   ],
   "author": {
     "name": "OA Wu",

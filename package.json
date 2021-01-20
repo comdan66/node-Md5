@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/comdan66/node-Scss.git"
+    "url": "git+https://github.com/comdan66/node-Md5.git"
   },
   "keywords": [
     "md5",
@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/comdan66/node-Scss/issues"
+    "url": "https://github.com/comdan66/node-Md5/issues"
   },
-  "homepage": "https://github.com/comdan66/node-Scss#readme"
+  "homepage": "https://github.com/comdan66/node-Md5#readme"
 }

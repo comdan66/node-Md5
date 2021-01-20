@@ -4,7 +4,7 @@
 
 
 ## 說明
-很簡單就是一個 `(https://zh.wikipedia.org/zh-tw/MD5)[md5]` 功能，比較特別的就是加入了類似 (https://zh.wikipedia.org/zh-tw/PHP)[PHP] 的 `(https://www.php.net/manual/zh/function.md5-file.php)[md5_file]` 函式。
+很簡單就是一個 [`md5`](https://zh.wikipedia.org/zh-tw/MD5) 功能，比較特別的就是加入了類似 [PHP](https://zh.wikipedia.org/zh-tw/PHP) 的 [`md5_file`](https://www.php.net/manual/zh/function.md5-file.php) 函式。
 
 ## 安裝
 

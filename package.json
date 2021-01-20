@@ -1,6 +1,6 @@
 {
   "name": "@oawu/md5",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "🔐 編碼！將一切都打亂囉～",
   "main": "index.js",
   "scripts": {

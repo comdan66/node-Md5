@@ -1,7 +1,7 @@
 {
   "name": "@oawu/md5",
   "version": "1.0.2",
-  "description": "OA's md5 工具 🔐",
+  "description": "🔐 編碼！將一切都打亂囉～",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
